@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-2ae190a330fc03994dc3.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "HashGUIApp",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "HashGUIApp::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HashGUIApp-Debug-78c279d08d1a8e7e6ccd.json",
+					"name" : "HashGUIApp",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HashGUIApp_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HashGUIApp_autogen-Debug-7f804cd70bf8b014a522.json",
+					"name" : "HashGUIApp_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "HashGUIApp_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-HashGUIApp_autogen_timestamp_deps-Debug-32d331f1c603dc54b860.json",
+					"name" : "HashGUIApp_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/gsb4t/Documents/build-HashGUIApp-Desktop_Qt_6_5_0_MinGW_64_bit-Debug",
+		"source" : "C:/Users/gsb4t/Documents/HashGUIApp"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
